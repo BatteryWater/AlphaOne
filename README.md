@@ -6,8 +6,6 @@ Currently Testing Package up/down loading,  minimal version control
 To DO:
 
  - Jump Speed / Height
- - Boarder can go
- - kill the vertical camera lock on player
  - Friction on player
  - Jumping off every side of a platform(Unless we dont like ‘N’ the ninja game)
  - Enemies
@@ -21,6 +19,12 @@ To DO:
  - Cutscene
  - More Levels
 
+Finished?
 
+ - Boarder can go
+ - kill the vertical camera lock on player
+ - Death counter
+ - Moving platform
+ - Moving hazzards
 
 
