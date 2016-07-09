@@ -23,10 +23,10 @@ To DO:
 
 Finished?
 
- - Boarder can go
+ - Border can go
  - kill the vertical camera lock on player
  - Death counter
  - Moving platform
- - Moving hazzards
+ - Moving hazards
 
 
