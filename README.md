@@ -5,6 +5,7 @@ Currently Testing Package up/down loading,  minimal version control
 
 To DO:
 
+
  - Jump Speed / Height
  - Friction on player
  - Jumping off every side of a platform(Unless we dont like ‘N’ the ninja game)
@@ -18,6 +19,7 @@ To DO:
  - Animations
  - Cutscene
  - More Levels
+ - Death Counter Continue over each level
 
 Finished?
 
