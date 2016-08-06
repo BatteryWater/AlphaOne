@@ -15,7 +15,6 @@ To DO:
  - Color Scheme 
  - Background Graphics
  - Sound
- - Menu
  - Animations
  - Cutscene
  - More Levels
@@ -23,6 +22,7 @@ To DO:
 
 Finished?
 
+ - added in a bad but working menu
  - Made a LevelManager prefab
  - Border can go
  - kill the vertical camera lock on player
