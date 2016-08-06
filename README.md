@@ -23,6 +23,7 @@ To DO:
 
 Finished?
 
+ - Made a LevelManager prefab
  - Border can go
  - kill the vertical camera lock on player
  - Death counter
